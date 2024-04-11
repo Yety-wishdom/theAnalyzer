@@ -1,0 +1,15 @@
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\bin\Debug\Password Ahalizator.exe.config
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\bin\Debug\Password Ahalizator.exe
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\bin\Debug\Password Ahalizator.pdb
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\obj\Debug\Analiz.csproj.AssemblyReference.cache
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\obj\Debug\Analiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\obj\Debug\Analiz.csproj.CoreCompileInputs.cache
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\obj\Debug\Password Ahalizator.exe
+C:\Users\Satan\Desktop\Учеба\3 курс\ИБиЗИ\Анализатор\obj\Debug\Password Ahalizator.pdb
+D:\3 курс\ИБИЗИ\Анализатор\bin\Debug\Password Ahalizator.exe.config
+D:\3 курс\ИБИЗИ\Анализатор\bin\Debug\Password Ahalizator.exe
+D:\3 курс\ИБИЗИ\Анализатор\bin\Debug\Password Ahalizator.pdb
+D:\3 курс\ИБИЗИ\Анализатор\obj\Debug\Analiz.csproj.AssemblyReference.cache
+D:\3 курс\ИБИЗИ\Анализатор\obj\Debug\Analiz.csproj.CoreCompileInputs.cache
+D:\3 курс\ИБИЗИ\Анализатор\obj\Debug\Password Ahalizator.exe
+D:\3 курс\ИБИЗИ\Анализатор\obj\Debug\Password Ahalizator.pdb
